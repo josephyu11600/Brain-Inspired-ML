@@ -1,0 +1,242 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.12)  25 SEP 2024 20:09
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab2/report.tex"
+(/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab2/report.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count271
+\float@exts=\toks19
+\float@box=\box52
+\@float@everytoks=\toks20
+\@floatcapt=\box53
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box54
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen152
+\scratchbox=\box55
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen153
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+<images/lin_reg_loss.png, id=1, 462.528pt x 346.896pt>
+File: images/lin_reg_loss.png Graphic file (type png)
+<use images/lin_reg_loss.png>
+Package pdftex.def Info: images/lin_reg_loss.png  used on input line 16.
+(pdftex.def)             Requested size: 339.72592pt x 254.80405pt.
+
+
+[1
+
+{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/lin_reg_loss.png>]
+<images/conv2_cnn.png, id=13, 867.24pt x 433.62pt>
+File: images/conv2_cnn.png Graphic file (type png)
+<use images/conv2_cnn.png>
+Package pdftex.def Info: images/conv2_cnn.png  used on input line 25.
+(pdftex.def)             Requested size: 339.72592pt x 169.8654pt.
+<images/conv2_snn.png, id=14, 867.24pt x 433.62pt>
+File: images/conv2_snn.png Graphic file (type png)
+<use images/conv2_snn.png>
+Package pdftex.def Info: images/conv2_snn.png  used on input line 32.
+(pdftex.def)             Requested size: 339.72592pt x 169.8654pt.
+<images/alexnet_conv1.png, id=15, 1156.32pt x 1156.32pt>
+File: images/alexnet_conv1.png Graphic file (type png)
+<use images/alexnet_conv1.png>
+Package pdftex.def Info: images/alexnet_conv1.png  used on input line 42.
+(pdftex.def)             Requested size: 339.72592pt x 339.71758pt.
+
+
+[2 <./images/conv2_cnn.png> <./images/conv2_snn.png>]
+<images/alexnet_conv2.png, id=21, 2023.56pt x 2023.56pt>
+File: images/alexnet_conv2.png Graphic file (type png)
+<use images/alexnet_conv2.png>
+Package pdftex.def Info: images/alexnet_conv2.png  used on input line 51.
+(pdftex.def)             Requested size: 339.72592pt x 339.70874pt.
+
+
+[3 <./images/alexnet_conv1.png>]
+<images/alexnet_layer0_filter28.png, id=26, 578.16pt x 216.81pt>
+File: images/alexnet_layer0_filter28.png Graphic file (type png)
+<use images/alexnet_layer0_filter28.png>
+Package pdftex.def Info: images/alexnet_layer0_filter28.png  used on input line 66.
+(pdftex.def)             Requested size: 452.9679pt x 169.86208pt.
+
+
+[4 <./images/alexnet_conv2.png>]
+<images/alexnet_layer6_filter20_neuron5_5.png, id=31, 578.16pt x 216.81pt>
+File: images/alexnet_layer6_filter20_neuron5_5.png Graphic file (type png)
+<use images/alexnet_layer6_filter20_neuron5_5.png>
+Package pdftex.def Info: images/alexnet_layer6_filter20_neuron5_5.png  used on input line 78.
+(pdftex.def)             Requested size: 452.9679pt x 169.86208pt.
+<images/alexnet_layer12.png, id=32, 578.16pt x 216.81pt>
+File: images/alexnet_layer12.png Graphic file (type png)
+<use images/alexnet_layer12.png>
+Package pdftex.def Info: images/alexnet_layer12.png  used on input line 90.
+(pdftex.def)             Requested size: 452.9679pt x 169.86208pt.
+
+
+[5 <./images/alexnet_layer0_filter28.png> <./images/alexnet_layer6_filter20_neuron5_5.png>]
+<images/snn_mean_images.png, id=38, 505.89pt x 216.81pt>
+File: images/snn_mean_images.png Graphic file (type png)
+<use images/snn_mean_images.png>
+Package pdftex.def Info: images/snn_mean_images.png  used on input line 103.
+(pdftex.def)             Requested size: 452.9679pt x 194.13141pt.
+
+
+[6 <./images/alexnet_layer12.png> <./images/snn_mean_images.png>]
+
+[7] (./report.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2015 strings out of 475030
+ 33972 string characters out of 5762435
+ 421310 words of memory out of 5000000
+ 24724 multiletter control sequences out of 15000+600000
+ 562631 words of font info for 51 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 57i,6n,65p,882b,231s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on report.pdf (7 pages, 1195597 bytes).
+PDF statistics:
+ 67 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

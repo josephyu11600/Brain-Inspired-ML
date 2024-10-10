@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1728276815.16769 "/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_3.tex" "report_3.pdf" "report_3" 1728276815.56114 0
-  "/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_3.tex" 1728276814.96457 9031 a3fbb6cd53e8d8c31a08de32b01b535a ""
+["pdflatex"] 1728530982.44469 "/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_Lab3_Joseph_Yu.tex" "report_Lab3_Joseph_Yu.pdf" "report_Lab3_Joseph_Yu" 1728530982.95633 0
+  "/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_Lab3_Joseph_Yu.tex" 1728530981.52981 9031 a3fbb6cd53e8d8c31a08de32b01b535a ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -57,16 +57,16 @@
   "/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1726198551 79187 3707ba1a1c2304ab6bb6cb291e5e6f79 ""
   "/usr/local/texlive/2024basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1726198588 2629192 d2d179e7496d5c255380da0e98930c4b ""
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
-  "images/cosine_similarity.png" 1728270583.89916 27451 823f624d0d534bc8dc3628e2341850af ""
-  "images/feedback_alignment_vary_B_accuracy.png" 1728270507.62341 52121 672cf6c0a09ae9235c35309255f7072c ""
-  "images/feedback_alignment_vary_B_loss.png" 1728270488.36456 36753 3aa2b5b7c5718bf1dfba5c7b882a862f ""
-  "images/gradient_snr.png" 1728275005.05413 20943 1b4c9a6300d7e42b32a5504461d8cd70 ""
-  "images/oja_rule.png" 1728270622.78482 37196 c84f1a740432a4d230a6d94b72101bbb ""
-  "images/stdp.png" 1728270637.06248 107631 210609bd31bb7c3ae4812a0d37d6fff3 ""
-  "report_3.aux" 1728276815.52539 2370 1d23dd6be2a8643773249c2ce9abbaef "pdflatex"
-  "report_3.tex" 1728276814.96457 9031 a3fbb6cd53e8d8c31a08de32b01b535a ""
+  "images/cosine_similarity.png" 1728277165.94568 27451 823f624d0d534bc8dc3628e2341850af ""
+  "images/feedback_alignment_vary_B_accuracy.png" 1728277165.94712 52121 672cf6c0a09ae9235c35309255f7072c ""
+  "images/feedback_alignment_vary_B_loss.png" 1728277165.94745 36753 3aa2b5b7c5718bf1dfba5c7b882a862f ""
+  "images/gradient_snr.png" 1728277165.94789 20943 1b4c9a6300d7e42b32a5504461d8cd70 ""
+  "images/oja_rule.png" 1728277165.94818 37196 c84f1a740432a4d230a6d94b72101bbb ""
+  "images/stdp.png" 1728277165.9492 107631 210609bd31bb7c3ae4812a0d37d6fff3 ""
+  "report_Lab3_Joseph_Yu.aux" 1728530982.90696 2370 1d23dd6be2a8643773249c2ce9abbaef "pdflatex"
+  "report_Lab3_Joseph_Yu.tex" 1728530981.52981 9031 a3fbb6cd53e8d8c31a08de32b01b535a ""
   (generated)
-  "report_3.aux"
-  "report_3.log"
-  "report_3.pdf"
+  "report_Lab3_Joseph_Yu.aux"
+  "report_Lab3_Joseph_Yu.log"
+  "report_Lab3_Joseph_Yu.pdf"
   (rewritten before read)

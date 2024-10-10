@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.12)  7 OCT 2024 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.12)  9 OCT 2024 23:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_3.tex"
-(/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_3.tex
+**"/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_Lab3_Joseph_Yu.tex"
+(/Users/JosephYu/Desktop/GT/Brain-inspired ML/Lab3/report_Lab3_Joseph_Yu.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/article.cls
@@ -135,8 +135,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box56
-) (./report_3.aux)
-\openout1 = `report_3.aux'.
+) (./report_Lab3_Joseph_Yu.aux)
+\openout1 = `report_Lab3_Joseph_Yu.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -254,7 +254,7 @@ Package pdftex.def Info: images/feedback_alignment_vary_B_loss.png  used on inpu
 
 [5 <./images/feedback_alignment_vary_B_accuracy.png> <./images/feedback_alignment_vary_B_loss.png>]
 
-[6] (./report_3.aux)
+[6] (./report_Lab3_Joseph_Yu.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -262,14 +262,14 @@ L3 programming layer <2024-08-30>
  ) 
 Here is how much of TeX's memory you used:
  2704 strings out of 475030
- 42464 string characters out of 5762435
- 435829 words of memory out of 5000000
+ 42620 string characters out of 5762435
+ 435855 words of memory out of 5000000
  25391 multiletter control sequences out of 15000+600000
  564995 words of font info for 60 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 57i,12n,65p,1043b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,65p,1056b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on report_3.pdf (6 pages, 363380 bytes).
+Output written on report_Lab3_Joseph_Yu.pdf (6 pages, 363438 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
